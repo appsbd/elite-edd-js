@@ -1,4 +1,4 @@
-# adminpanel
+# EDD javascript Source
 
 ## Project setup
 ```
